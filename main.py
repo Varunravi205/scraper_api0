@@ -6,8 +6,6 @@ import uvicorn
 from typing import List, Optional
 
 
-# Disable SSL warnings
-
 
 app = FastAPI()
 
